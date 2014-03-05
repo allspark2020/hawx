@@ -1,0 +1,6 @@
+kernel/drivers/sensors/sensors_core.ko
+kernel/drivers/sensors/alps-input.ko
+kernel/drivers/sensors/hscd_i2c.ko
+kernel/drivers/sensors/bma222.ko
+kernel/drivers/sensors/bma222e.ko
+kernel/drivers/sensors/gp2a.ko

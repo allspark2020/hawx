@@ -1,0 +1,3 @@
+kernel/drivers/power/power_supply.ko
+kernel/drivers/power/msm_battery.ko
+kernel/drivers/power/fuelgauge_max17048.ko
